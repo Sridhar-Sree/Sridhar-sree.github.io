@@ -4,42 +4,31 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi, I work as a Freelance App Developer(Java), Worked on ASO & SEO, Digital Marketing like Google ads and Facebook Ads (CPI), and Also Build Websites for SmallBusiness Owners Using WordPress Elementor Currently, I am Learning & Working on Flutter Apps </p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>App Development Java (Intermediate-Level)</li>
+	<li>Flutter Development (Begginer Level)</li>
+	<li>Mobile Adnetwork Integration (Appodeal, Yodo1, Unity Ads, Facebook Audience Network, Applovin)</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Website (Wordpress)</li>
+	<li>SEO & ASO</li>
+	<li>Google Analytics</li>
+	<li>Google Ads & FAN</li>
+	<li>Google Adsense & Admob</li>
+	<li>Google Webmasters</li>
+	<li>Digital Marketing (Google Ads, Facebook Ads, Native Ads, Snapchat Ads)</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://play.google.com/store/apps/details?id=com.free.turbo.vpn">Free Turbo VPN</a></li>
+	<li><a href="https://github.com/Sridhar-Sree/Flutter_Explore_App_UI">Explore Flutter UI</a></li>
+	<li><a href="https://udemyguru.com/">Udemy Guru (Automated Coupon Site)</a></li>
+	<li><a href="https://smartsensorhome.com/">Smart Sensor Home</a></li>
+	<li><a href="https://github.com/">Pocket Games Wordpress Site (Collection of HTML5 Mini Games Website) (Currently Not Available)</a></li>
+	<li><a href="https://github.com/">MGL(Mobile Game League) Android App (Currently Not Available)</a></li>
 </ul>
