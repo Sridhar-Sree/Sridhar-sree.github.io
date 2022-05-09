@@ -41,20 +41,6 @@ disqus:
 github: https://github.com/Sridhar-Sree
 email: sreesennu@gmail.com
 
-authors:
-  johndoe:
-    name: Sridhar
-    bio: Android Developer & Website Freelancer
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
-
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
