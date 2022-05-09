@@ -29,6 +29,6 @@ layout: page
 	<li><a href="https://github.com/Sridhar-Sree/Flutter_Explore_App_UI">Explore Flutter UI</a></li>
 	<li><a href="https://udemyguru.com/">Udemy Guru (Automated Coupon Site)</a></li>
 	<li><a href="https://smartsensorhome.com/">Smart Sensor Home</a></li>
-	<li><a href="https://github.com/">Pocket Games Wordpress Site (Collection of HTML5 Mini Games Website) (Currently Not Available)</a></li>
-	<li><a href="https://github.com/">MGL(Mobile Game League) Android App (Currently Not Available)</a></li>
+	<li><a href="">Pocket Games Wordpress Site (Collection of HTML5 Mini Games Website) (Currently Not Available)</a></li>
+	<li><a href="">MGL(Mobile Game League) Android App (Currently Not Available)</a></li>
 </ul>
