@@ -2,8 +2,8 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
-
+<!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+ -->
 <p>Hi, I work as a Freelance App Developer(Java), Worked on ASO & SEO, Digital Marketing like Google ads and Facebook Ads (CPI), and Also Build Websites for SmallBusiness Owners Using WordPress Elementor Currently, I am Learning & Working on Flutter Apps </p>
 
 <h2>Skills</h2>
